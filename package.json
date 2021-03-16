@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:jordanhudgens/analytics-dashboard.git"
+    "url": "git@github.com:joaquinrosa/analytics-dashboard"
   },
   "keywords": [
     "es6",
@@ -25,12 +25,12 @@
     "sass",
     "css module"
   ],
-  "author": "Jordan Hudgens",
+  "author": "Joaquín Rosa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jordanhudgens/analytics-dashboard/issues"
+    "url": "https://github.com/joaquinrosa/analytics-dashboard/issues"
   },
-  "homepage": "https://github.com/jordanhudgens/analytics-dashboard",
+  "homepage": "https://github.com/joaquinrosa/analytics-dashboard",
   "dependencies": {
     "@types/react": "16.9.0",
     "@types/react-dom": "16.9.0",
