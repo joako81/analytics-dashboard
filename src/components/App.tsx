@@ -9,7 +9,7 @@ const ENDPOINT = "https://devcamp.com/api/metrics/code_editor_grouped_by_day";
 interface IActivityElement {
   duration: number;
   date: string;
-}
+} 
 
 const App = () => {
   const [series, setSeries] = useState(null);
